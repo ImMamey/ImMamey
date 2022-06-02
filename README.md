@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm an Informatic Engineering and Software Development student with mention . I love to play around with fun cs projects. 
+I'm Musician, Informatic Engineering and Software Development student. I love to play around with fun cs projects. 
 
 I'm always learning!
 
