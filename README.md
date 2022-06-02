@@ -37,9 +37,10 @@ I'm always learning!
 <br />
 
 ---
-<table align="center">
-  <tbody><tr>
-    <td align="center"><img align="left" alt="Mamey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ImMamey&show_icons=true&hide_border=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br><sub><b>My GitHub Stats</b></sub></a><br></a></td>
-    <td align="center">  <img align="left" alt="Mamey's Most used lenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMamey&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=7&layout=compact" /><br><sub><b>My Most used lenguages</b></sub></a><br></td>  
-  </tr>
-</tbody></table>
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMamey&show_icons=true&hide_border=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMamey&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=7&layout=compact" />
+</a>
