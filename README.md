@@ -4,6 +4,9 @@ I'm Musician, Informatic Engineering and Software Development student. I love to
 
 I'm always learning!
 
+> You can contact me trough discord:
+`Mamey#7911`
+
 ---
 
 
