@@ -22,6 +22,7 @@ I'm always learning!
 [<img align="left" alt="Java" width="26px" src="https://static.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />](https://docs.microsoft.com/en-gb/dotnet/csharp/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="padding-right:10px;" />](https://angular.io/)
+[<img align="left" alt="Docker" width="26px" src="https://www.kindpng.com/picc/m/452-4529814_docker-and-kubernetes-logos-docker-logo-white-png.png" />](https://www.docker.com/)
 
 <br />
 <br />
