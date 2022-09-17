@@ -49,5 +49,3 @@ I'm always learning!
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMamey&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=10&layout=compact" />
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ImMamey&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FF652F&background=09131B&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&ring=EC510A)](https://git.io/streak-stats)
