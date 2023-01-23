@@ -18,7 +18,6 @@ I'm always learning!
 [<img align="left" alt="Eclipse" width="26px" src="https://en.opensuse.org/images/2/2c/Eclipse_icon.png" style="padding-right:10px;" />](https://www.eclipse.org/downloads/)
 [<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" style="padding-right:10px;" />](https://www.postman.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
-[<img align="left" alt="Spring Boot" width="26px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" style="padding-right:10px;" />](https://spring.io/)
 [<img align="left" alt="pentaho" width="26px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ed47c5d9-dddf-4b6a-a8c1-c1ee39fbcc1c.png?fit=max&w=104&fm=png&auto=format" style="padding-right:10px;" />](https://sourceforge.net/projects/pentaho/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/)
 
@@ -28,9 +27,10 @@ I'm always learning!
 <br />
 
 ---
-### My Languages
+### My Languages and frameworks
 
 [<img align="left" alt="Java" width="28px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/java-icon.png" style="padding-right:10px;" />](https://www.java.com/)
+[<img align="left" alt="Spring Boot" width="26px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" style="padding-right:10px;" />](https://spring.io/)
 [<img align="left" alt="pgSQL" width="26px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
 [<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />](https://isocpp.org/)
 [<img align="left" alt="C#" width="28px" src="https://static.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />](https://docs.microsoft.com/en-gb/dotnet/csharp/)
