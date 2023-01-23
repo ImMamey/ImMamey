@@ -18,7 +18,7 @@ I'm always learning!
 [<img align="left" alt="Eclipse" width="26px" src="https://en.opensuse.org/images/2/2c/Eclipse_icon.png" style="padding-right:10px;" />](https://www.eclipse.org/downloads/)
 [<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" style="padding-right:10px;" />](https://www.postman.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
-[<img align="left" alt="pentaho" width="26px" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ed47c5d9-dddf-4b6a-a8c1-c1ee39fbcc1c.png?fit=max&w=104&fm=png&auto=format" style="padding-right:10px;" />](https://sourceforge.net/projects/pentaho/)
+[<img align="left" alt="pentaho" width="27px" src="https://avatars.githubusercontent.com/u/1022787?s=200&v=4" style="padding-right:10px;" />](https://sourceforge.net/projects/pentaho/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="Figma" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />](https://www.figma.com/)
 
