@@ -19,7 +19,7 @@ I'm always learning!
 [<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" style="padding-right:10px;" />](https://www.postman.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
 [<img align="left" alt="pentaho" width="27px" src="https://avatars.githubusercontent.com/u/1022787?s=200&v=4" style="padding-right:10px;" />](https://sourceforge.net/projects/pentaho/)
-[<img align="left" alt="Figma" width="26px" src="https://www.navicat.com/images/02.Product_00_AllProducts_Premium15.png" />](https://navicat.com/en/)
+[<img align="left" alt="Navicat" width="26px" src="https://www.navicat.com/images/02.Product_00_AllProducts_Premium15.png" />](https://navicat.com/en/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="Figma" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />](https://www.figma.com/)
 
