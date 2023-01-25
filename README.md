@@ -13,6 +13,7 @@ I'm always learning!
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="Visual Studio 2019" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/)
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="Jupyter" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />](https://jupyter.org/)
 [<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="NetBeans" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" style="padding-right:10px;" />](https://netbeans.apache.org/download/index.html)
 [<img align="left" alt="Eclipse" width="26px" src="https://en.opensuse.org/images/2/2c/Eclipse_icon.png" style="padding-right:10px;" />](https://www.eclipse.org/downloads/)
@@ -22,7 +23,6 @@ I'm always learning!
 [<img align="left" alt="Navicat" width="26px" src="https://www.navicat.com/images/02.Product_00_AllProducts_Premium15.png" />](https://navicat.com/en/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/)
 [<img align="left" alt="Figma" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />](https://www.figma.com/) 
-[<img align="left" alt="Jupyter" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />](https://jupyter.org/)
 
 
 
