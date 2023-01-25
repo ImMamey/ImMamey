@@ -21,8 +21,8 @@ I'm always learning!
 [<img align="left" alt="pentaho" width="27px" src="https://avatars.githubusercontent.com/u/1022787?s=200&v=4" style="padding-right:10px;" />](https://sourceforge.net/projects/pentaho/)
 [<img align="left" alt="Navicat" width="26px" src="https://www.navicat.com/images/02.Product_00_AllProducts_Premium15.png" />](https://navicat.com/en/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/)
-[<img align="left" alt="Figma" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />](https://www.figma.com/)
-
+[<img align="left" alt="Figma" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />](https://www.figma.com/) 
+[<img align="left" alt="Jupyter" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />](https://jupyter.org/)
 
 
 
