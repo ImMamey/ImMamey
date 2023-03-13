@@ -59,6 +59,9 @@ I'm always learning!
 [<img align="left" alt="Cisco Packet Tracer" width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" style="padding-right:10px;" />](https://www.netacad.com/courses/packet-tracer)
 [<img align="left" alt="RabbitMQ" width="26px" src="https://assets.zabbix.com/img/brands/rabbitmq.svg" style="padding-right:10px;" />](https://www.rabbitmq.com/)
 [<img align="left" alt="Docker" width="36px" src="https://img.icons8.com/color/512/docker.png" />](https://www.docker.com/)
+[<img align="left" alt="React" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
+[<img align="left" alt="React" width="36px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />](https://nextjs.org/)
+
 
 <br />
 <br />
