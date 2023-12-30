@@ -9,7 +9,29 @@
 Coding is like solving a puzzle, except half the pieces are missing, and you're blindfolded. But fear not, I have mastered the art of frustration and perfected the eye-roll when faced with cryptic error messages that seem to speak an alien language. Sometimes I can even ignore the traceback and pretend it doesn't exist.
 
 It's because of these challenges and my ability to tackle them head-on that I am currently studying Information/Software Engineering.
-</p>
+
+<div style="width: 100%; display: flex; justify-content: center;">
+    <table style="text-align: center; border-collapse: collapse; width: 50%;">
+        <tr>
+            <th style="border: 2px solid #9b59b6;"> </th>
+            <th style="border: 2px solid #9b59b6;">English</th>
+            <th style="border: 2px solid #9b59b6;">Spanish</th>
+            <th style="border: 2px solid #9b59b6;">Italian</th>
+        </tr>
+        <tr>
+            <td style="border: 2px solid #8e44ad;">Language</td>
+            <td style="border: 2px solid #8e44ad;">English</td>
+            <td style="border: 2px solid #8e44ad;">Spanish</td>
+            <td style="border: 2px solid #8e44ad;">Italian</td>
+        </tr>
+        <tr>
+            <td style="border: 2px solid #8e44ad;">Level</td>
+            <td style="border: 2px solid #8e44ad;">C-1</td>
+            <td style="border: 2px solid #8e44ad;">Native</td>
+            <td style="border: 2px solid #8e44ad;">B-1</td>
+        </tr>
+    </table>
+</div>
 
 <div style="width: 100%; overflow: hidden;">
   <a href="images/line.svg">
