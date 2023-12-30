@@ -73,7 +73,17 @@ I'm always learning!
 
 ## My GitHub stats
 
+
 <table>
+    <tr>
+    <td colspan="2">
+      <p align="center">
+        <a href="https://github.com/ImMamey">
+          <img src="https://github-profile-trophy.vercel.app/?username=ImMamey&theme=onedark&row=1" style="display: block; margin: auto;" />
+        </a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td colspan="2">
       <p>
