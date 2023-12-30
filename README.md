@@ -75,37 +75,35 @@ I'm always learning!
 
 
 <table>
-    <tr>
-    <td colspan="2">
-      <p align="center">
-        <a href="https://github.com/ImMamey">
-          <img src="https://github-profile-trophy.vercel.app/?username=ImMamey&theme=onedark&row=1" style="display: block; margin: auto;" />
-        </a>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ImMamey">
+        <img src="https://github-profile-trophy.vercel.app/?username=ImMamey&theme=onedark&row=1" style="display: block; margin: auto;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <p>
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
       </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <p>
-        <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
-     </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
+    <td align="center">
       <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMamey&show_icons=true&hide_border=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ImMamey&show_icons=true&hide_border=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMamey&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=10&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMamey&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=10&layout=compact" />
       </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImMamey&theme=github_dark" />
     </td>
   </tr>
