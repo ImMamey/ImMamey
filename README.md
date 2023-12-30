@@ -16,7 +16,6 @@ I do speak human languages too, you can find more about that below:
   <img src="images/table.svg" alt="Click to see the source" width="70%">
 </p>
 
-
 <div style="width: 100%; overflow: hidden;">
   <a href="images/line.svg">
     <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
