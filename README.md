@@ -12,8 +12,6 @@ It's because of these challenges and my ability to tackle them head-on that I am
 
 I do speak human languages too, you can find more about that below:
 
-So the link would be:
-
 <p align="center">
   <img src="images/table.svg" alt="Click to see the source" width="70%">
 </p>
