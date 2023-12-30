@@ -10,7 +10,7 @@ Coding is like solving a puzzle, except half the pieces are missing, and you're 
 
 It's because of these challenges and my ability to tackle them head-on that I am currently studying Information/Software Engineering.
 
-I do speak human languages too, you can find more about that below:
+I do speak human languages too, you can find more about that in here:
 <p align="center">
   <img src="images/table.svg" alt="Click to see the source" width="75%">
 </p>
