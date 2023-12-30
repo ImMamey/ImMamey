@@ -1,12 +1,19 @@
-# Hi there 👋 
-
-I'm Musician, Informatic Engineering and Software Development student. I love to play around with fun cs projects. 
+<div style="width: 100%; overflow: hidden; height: 50%;">
+  <a href="images/hi.svg">
+    <img src="images/hi.svg" style="width: 100%; display: block;" alt="Click to see the source">
+  </a>
+</div>
+<br>
+I'm Musician, Informatic Engineering and Software Development student. I love to play around with fun cs projects.
 
 I'm always learning!
 
+<div style="width: 100%; overflow: hidden;">
+  <a href="images/line.svg">
+    <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
+  </a>
+</div>
 
-
----
 ## My languages and technologies
 
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
@@ -26,7 +33,13 @@ I'm always learning!
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 
  **Favorite Languages (atm):** Java, Python & Matlab.
-- - -
+<br><br>
+<div style="width: 100%; overflow: hidden;">
+  <a href="images/line.svg">
+    <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
+  </a>
+</div>
+
 ## My Favorite IDEs and editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
@@ -39,7 +52,12 @@ I'm always learning!
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge)
 ![Navicat](https://img.shields.io/badge/Navicat-13B5EA?logo=navicat&logoColor=white&style=for-the-badge)
 
-
+<br><br>
+<div style="width: 100%; overflow: hidden;">
+  <a href="images/line.svg">
+    <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
+  </a>
+</div>
 
 ## Tools I use:
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
@@ -59,7 +77,12 @@ I'm always learning!
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![kali linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
 
----
+<br><br>
+<div style="width: 100%; overflow: hidden;">
+  <a href="images/line.svg">
+    <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
+  </a>
+</div>
 
 ## Im currently learning
 
@@ -75,7 +98,12 @@ I'm always learning!
 ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?logo=discord&logoColor=white&style=for-the-badge)
 
 
----
+<br><br>
+<div style="width: 100%; overflow: hidden;">
+  <a href="images/line.svg">
+    <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
+  </a>
+</div>
 
 
 ## My GitHub stats
