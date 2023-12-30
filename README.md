@@ -8,7 +8,7 @@ I'm always learning!
 <!--END_SECTION:waka-->
 
 ---
-### My Languages and frameworks
+## My Languages and frameworks
 
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
@@ -26,7 +26,7 @@ I'm always learning!
 
  **Favorite Languages (atm):** Java, Python & Matlab.
 - - -
-### My Favorite IDE's and Editors
+## My Favorite IDE's and Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
@@ -40,7 +40,7 @@ I'm always learning!
 
 
 
-### Tools I use:
+## Tools I use:
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
@@ -53,7 +53,7 @@ I'm always learning!
 
 ---
 
-### Im currently learning
+## Im currently learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
@@ -69,7 +69,7 @@ I'm always learning!
 ---
 
 
-### My GitHub stats
+## My GitHub stats
 
 <table>
   <tr>
