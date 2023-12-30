@@ -110,7 +110,7 @@ I do speak human languages too, you can find more about that here:
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none;>
         <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 Markdown     1 hr 36 mins    █████████████████▓░░░░░░░   70.04 %
 Env File     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
