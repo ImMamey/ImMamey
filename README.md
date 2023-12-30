@@ -4,74 +4,89 @@ I'm Musician, Informatic Engineering and Software Development student. I love to
 
 I'm always learning!
 
-
----
-
-
-### My Favorite Tools
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-[<img align="left" alt="Visual Studio 2019" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" style="padding-right:10px;" />](https://visualstudio.microsoft.com/vs/)
-[<img align="left" alt="Jupyter" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />](https://jupyter.org/)
-[<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />](https://www.jetbrains.com/idea/)
-[<img align="left" alt="NetBeans" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png" style="padding-right:10px;" />](https://netbeans.apache.org/download/index.html)
-[<img align="left" alt="Eclipse" width="26px" src="https://en.opensuse.org/images/2/2c/Eclipse_icon.png" style="padding-right:10px;" />](https://www.eclipse.org/downloads/)
-[<img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" style="padding-right:10px;" />](https://www.postman.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/)
-[<img align="left" alt="pentaho" width="27px" src="https://avatars.githubusercontent.com/u/1022787?s=200&v=4" style="padding-right:10px;" />](https://sourceforge.net/projects/pentaho/)
-[<img align="left" alt="Navicat" width="26px" src="https://www.navicat.com/images/02.Product_00_AllProducts_Premium15.png" />](https://navicat.com/en/)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/)
-[<img align="left" alt="Figma" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />](https://www.figma.com/) 
-
-
-
-
-<br />
-<br />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 ### My Languages and frameworks
 
-[<img align="left" alt="Java" width="28px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/java-icon.png" style="padding-right:10px;" />](https://www.java.com/)
-[<img align="left" alt="Spring Boot" width="26px" src="https://img.icons8.com/color/256/spring-logo.png" style="padding-right:10px;" />](https://spring.io/)
-[<img align="left" alt="pgSQL" width="26px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
-[<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />](https://isocpp.org/)
-[<img align="left" alt="C#" width="28px" src="https://static.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />](https://docs.microsoft.com/en-gb/dotnet/csharp/)
-[<img align="left" alt="Angular" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="padding-right:10px;" />](https://angular.io/)
-[<img align="left" alt="Angular" width="26px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/d7/24/08/d7240855-0e51-7f7e-6c2d-3bafdea5a05f/source/512x512bb.jpg" style="padding-right:10px;" />](https://www.bloodshed.net/Dev-Pascal)
-[<img align="left" alt="Angular" width="28px" src="https://learn.microsoft.com/en-us/cpp/media/index/logo-asm.svg?view=msvc-170" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/X86_assembly_language)
-[<img align="left" alt="MongoDB" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![Springboot](https://img.shields.io/badge/Springboot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![plPostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![OracleSQL](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-9E4C99?logo=dev-pascal&logoColor=white&style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
+
+ **Favorite Languages (atm):** Java, Python & Matlab.
+- - -
+### My Favorite IDE's and Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)
+![Datagrip](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white&style=for-the-badge)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge)
+![Navicat](https://img.shields.io/badge/Navicat-13B5EA?logo=navicat&logoColor=white&style=for-the-badge)
 
 
 
-
-
-<br />
-<br />
+### Tools I use:
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
+![cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
+![PgaAdmin](https://img.shields.io/badge/PgAdmin-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-44CC11?logo=hoppscotch&logoColor=white&style=for-the-badge)
+![pentaho data integration](https://img.shields.io/badge/Pentaho%20Data%20Integration-FF652F?logo=pentaho&logoColor=white&style=for-the-badge)
+![Alteryx designer](https://img.shields.io/badge/Alteryx%20Designer-1F4B99?logo=alteryx&logoColor=white&style=for-the-badge)
 
 ---
 
 ### Im currently learning
 
-[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" style="padding-right:10px;" />](https://www.tensorflow.org/)
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />](https://www.python.org/)
-[<img align="left" alt="Cisco Packet Tracer" width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" style="padding-right:10px;" />](https://www.netacad.com/courses/packet-tracer)
-[<img align="left" alt="RabbitMQ" width="26px" src="https://assets.zabbix.com/img/brands/rabbitmq.svg" style="padding-right:10px;" />](https://www.rabbitmq.com/)
-[<img align="left" alt="Docker" width="36px" src="https://img.icons8.com/color/512/docker.png" />](https://www.docker.com/)
-[<img align="left" alt="React" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
-[<img align="left" alt="React" width="36px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />](https://nextjs.org/)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next-dot-js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge)
+![Pycord](https://img.shields.io/badge/Pycord-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?logo=discord&logoColor=white&style=for-the-badge)
 
-
-<br />
-<br />
 
 ---
 
+
 ### My GitHub stats
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMamey&show_icons=true&hide_border=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMamey&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=10&layout=compact" />
-</a>
+
+<table>
+  <tr>
+    <td>
+      <a href="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImMamey&show_icons=true&hide_border=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMamey&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=10&layout=compact" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImMamey&theme=github_dark" />
+    </td>
+  </tr>
+</table>
