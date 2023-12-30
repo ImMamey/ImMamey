@@ -22,6 +22,9 @@ I'm always learning!
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white&style=for-the-badge)
+![Octave](https://img.shields.io/badge/Octave-0790C0?logo=gnu-octave&logoColor=white&style=for-the-badge)
+![Ti-Basic](https://img.shields.io/badge/Ti%20Basic-8300FF?logo=ti&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 
  **Favorite Languages (atm):** Java, Python & Matlab.
 - - -
