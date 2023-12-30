@@ -5,9 +5,11 @@
 </div>
 <br>
 
+<p style="text-align: justify;">
 Coding is like solving a puzzle, except half the pieces are missing, and you're blindfolded. But fear not, I have mastered the art of frustration and perfected the eye-roll when faced with cryptic error messages that seem to speak an alien language. Sometimes I can even ignore the traceback and pretend it doesn't exist.
 
 It's because of these challenges and my ability to tackle them head-on that I am currently studying Information/Software Engineering.
+</p>
 
 <div style="width: 100%; overflow: hidden;">
   <a href="images/line.svg">
