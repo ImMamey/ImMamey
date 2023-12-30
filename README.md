@@ -123,7 +123,16 @@ I do speak human languages too, you can find more about that below:
     <td colspan="2" align="center">
       <p>
         <!--START_SECTION:waka-->
-        <!--END_SECTION:waka-->
+
+```txt
+Markdown     1 hr 36 mins    █████████████████▓░░░░░░░   70.04 %
+Env File     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+SVG          12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+XML          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+```
+
+<!--END_SECTION:waka-->
       </p>
     </td>
   </tr>
