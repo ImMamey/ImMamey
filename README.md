@@ -4,7 +4,7 @@
   </a>
 </div>
 <br>
-I'm Musician, Informatic Engineering and Software Development student. I love to play around with fun cs projects.
+I'm Musician, Information Engineering and Software Development student. I love to play around with fun cs projects.
 
 I'm always learning!
 
@@ -32,13 +32,7 @@ I'm always learning!
 ![Ti-Basic](https://img.shields.io/badge/Ti%20Basic-8300FF?logo=ti&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 
- **Favorite Languages (atm):** Java, Python & Matlab.
-<br><br>
-<div style="width: 100%; overflow: hidden;">
-  <a href="images/line.svg">
-    <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
-  </a>
-</div>
+
 
 ## My Favorite IDEs and editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
@@ -52,12 +46,6 @@ I'm always learning!
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge)
 ![Navicat](https://img.shields.io/badge/Navicat-13B5EA?logo=navicat&logoColor=white&style=for-the-badge)
 
-<br>
-<div style="width: 100%; overflow: hidden;">
-  <a href="images/line.svg">
-    <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
-  </a>
-</div>
 
 ## Tools & OS I use:
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
@@ -75,13 +63,6 @@ I'm always learning!
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![kali linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
-
-<br>
-<div style="width: 100%; overflow: hidden;">
-  <a href="images/line.svg">
-    <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
-  </a>
-</div>
 
 ## Im currently learning
 
