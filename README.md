@@ -52,14 +52,14 @@ I'm always learning!
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge)
 ![Navicat](https://img.shields.io/badge/Navicat-13B5EA?logo=navicat&logoColor=white&style=for-the-badge)
 
-<br><br>
+<br>
 <div style="width: 100%; overflow: hidden;">
   <a href="images/line.svg">
     <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
   </a>
 </div>
 
-## Tools I use:
+## Tools & OS I use:
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
@@ -72,7 +72,6 @@ I'm always learning!
 ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=white&style=for-the-badge)
 
-### OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![kali linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
