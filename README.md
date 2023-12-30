@@ -1,5 +1,5 @@
-<div style="width: 100%; overflow: hidden; height: 50%;">
-  <a href="images/hi.svg">
+<div style="width: 100%; overflow: hidden;">
+  <a href="https://github.com/ImMamey?tab=repositories">
     <img src="images/hi.svg" style="width: 100%; display: block;" alt="Click to see the source">
   </a>
 </div>
