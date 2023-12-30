@@ -7,7 +7,7 @@ I'm always learning!
 
 
 ---
-## My Languages and frameworks
+## My languages and technologies
 
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
@@ -27,7 +27,7 @@ I'm always learning!
 
  **Favorite Languages (atm):** Java, Python & Matlab.
 - - -
-## My Favorite IDE's and Editors
+## My Favorite IDEs and editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
