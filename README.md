@@ -62,6 +62,7 @@ It's because of these challenges and my ability to tackle them head-on that I am
 ![Alteryx designer](https://img.shields.io/badge/Alteryx%20Designer-1F4B99?logo=alteryx&logoColor=white&style=for-the-badge)
 ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=white&style=for-the-badge)
+![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
