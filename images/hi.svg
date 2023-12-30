@@ -1,3 +1,12 @@
+<!--
+If you are here, it means that you either got rickrolled, or you really want to know how this was made.
+Well, here you can get the sources I used:
+
+1. I used this example https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
+2. Modifed it with: https://www.w3schools.com/graphics/svg_intro.asp
+3. And https://developer.mozilla.org/en-US/docs/Web/SVG
+4. Lots of try and error, googling, and hating CSS: https://www.w3schools.com/css/
+-->
 <svg fill="none" viewBox="0 0 1600 250" width="1600" height="250" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
