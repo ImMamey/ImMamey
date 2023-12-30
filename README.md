@@ -12,22 +12,12 @@ It's because of these challenges and my ability to tackle them head-on that I am
 
 I do speak human languages too, you can find more about that below:
 
-<div style="width: 100%; display: flex; justify-content: center;">
-    <table style="text-align: center; border-collapse: collapse; width: 50%;">
-        <tr>
-            <th style="border: 2px solid #9b59b6;"><b>Language</b></th>
-            <td style="border: 2px solid #9b59b6;">English</td>
-            <td style="border: 2px solid #9b59b6;">Spanish</td>
-            <td style="border: 2px solid #9b59b6;">Italian</td>
-        </tr>
-        <tr>
-            <th style="border: 2px solid #8e44ad;"><b>Level</b></th>
-            <td style="border: 2px solid #8e44ad;">C-1</td>
-            <td style="border: 2px solid #8e44ad;">Native</td>
-            <td style="border: 2px solid #8e44ad;">B-1</td>
-        </tr>
-    </table>
-</div>
+So the link would be:
+
+<p align="center">
+  <img src="images/table.svg" alt="Click to see the source" width="70%">
+</p>
+
 
 <div style="width: 100%; overflow: hidden;">
   <a href="images/line.svg">
