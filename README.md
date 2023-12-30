@@ -78,7 +78,7 @@ I'm always learning!
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ImMamey">
-        <img src="https://github-profile-trophy.vercel.app/?username=ImMamey&theme=onedark&row=1" style="display: block; margin: auto;" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ImMamey&theme=dark_lover&row=1&&margin-w=7&" style="display: block; margin: auto;" />
       </a>
     </td>
   </tr>
