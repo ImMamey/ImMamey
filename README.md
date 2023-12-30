@@ -52,7 +52,12 @@ I'm always learning!
 ![pentaho data integration](https://img.shields.io/badge/Pentaho%20Data%20Integration-FF652F?logo=pentaho&logoColor=white&style=for-the-badge)
 ![Alteryx designer](https://img.shields.io/badge/Alteryx%20Designer-1F4B99?logo=alteryx&logoColor=white&style=for-the-badge)
 ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Microsoft Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?logo=microsoft-power-bi&logoColor=white&style=for-the-badge)
 
+### OS
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![kali linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
 
 ---
 
