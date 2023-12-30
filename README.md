@@ -17,7 +17,6 @@ I'm always learning!
 ![OracleSQL](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![Pascal](https://img.shields.io/badge/Pascal-9E4C99?logo=dev-pascal&logoColor=white&style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -58,6 +57,7 @@ I'm always learning!
 ## Im currently learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next-dot-js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
