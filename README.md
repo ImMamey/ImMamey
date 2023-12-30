@@ -51,6 +51,8 @@ I'm always learning!
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-44CC11?logo=hoppscotch&logoColor=white&style=for-the-badge)
 ![pentaho data integration](https://img.shields.io/badge/Pentaho%20Data%20Integration-FF652F?logo=pentaho&logoColor=white&style=for-the-badge)
 ![Alteryx designer](https://img.shields.io/badge/Alteryx%20Designer-1F4B99?logo=alteryx&logoColor=white&style=for-the-badge)
+![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
 
 ---
 
