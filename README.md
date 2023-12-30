@@ -103,42 +103,37 @@ I do speak human languages too, you can find more about that here:
 <table>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <a href="https://github.com/ImMamey">
         <img src="https://github-profile-trophy.vercel.app/?username=ImMamey&theme=dark_lover&row=1&&margin-w=7&" style="display: block; margin: auto;" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <pre style="border: none; padding: 0;">
-        <!--START_SECTION:waka-->
+      <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 Markdown     1 hr 36 mins    █████████████████▓░░░░░░░   70.04 %
 Env File     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
 SVG          12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
 XML          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
 YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-        <!--END_SECTION:waka--></pre>
-      </a>
+<!--END_SECTION:waka--></pre>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <a href="">
         <img src="https://github-readme-stats.vercel.app/api?username=ImMamey&show_icons=true&hide_border=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+      <a href="">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImMamey&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=10&layout=compact" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImMamey&theme=github_dark" />
-      </a>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImMamey&theme=github_dark" />
     </td>
   </tr>
 </table>
