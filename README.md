@@ -4,8 +4,7 @@ I'm Musician, Informatic Engineering and Software Development student. I love to
 
 I'm always learning!
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ---
 ## My Languages and frameworks
@@ -72,6 +71,14 @@ I'm always learning!
 ## My GitHub stats
 
 <table>
+  <tr>
+    <td colspan="2">
+      <p>
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
+     </p>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="">
