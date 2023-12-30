@@ -57,6 +57,7 @@ I do speak human languages too, you can find more about that here:
 
 
 ## Tools & OS I use:
+[![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?logo=qt&logoColor=white&style=for-the-badge)](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)](https://keras.io/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)](https://www.rabbitmq.com/)
