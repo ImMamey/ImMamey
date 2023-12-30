@@ -77,7 +77,7 @@ I'm always learning!
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![kali linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge)
 
-<br><br>
+<br>
 <div style="width: 100%; overflow: hidden;">
   <a href="images/line.svg">
     <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
@@ -98,7 +98,7 @@ I'm always learning!
 ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?logo=discord&logoColor=white&style=for-the-badge)
 
 
-<br><br>
+<br>
 <div style="width: 100%; overflow: hidden;">
   <a href="images/line.svg">
     <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
