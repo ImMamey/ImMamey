@@ -107,7 +107,7 @@ I do speak human languages too, you can find more about that here:
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <pre><!--START_SECTION:waka-->
+      <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 Markdown     1 hr 36 mins    █████████████████▓░░░░░░░   70.04 %
 Env File     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
 SVG          12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
