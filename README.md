@@ -11,9 +11,8 @@ Coding is like solving a puzzle, except half the pieces are missing, and you're 
 It's because of these challenges and my ability to tackle them head-on that I am currently studying Information/Software Engineering.
 
 I do speak human languages too, you can find more about that below:
-
 <p align="center">
-  <img src="images/table.svg" alt="Click to see the source" width="70%">
+  <img src="images/table.svg" alt="Click to see the source" width="75%">
 </p>
 
 <div style="width: 100%; overflow: hidden;">

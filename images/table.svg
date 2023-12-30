@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="75%" viewBox="0 0 800 200">
-    <rect x="0" y="0" width="800" height="200" fill="transparent" />
-    <text x="100" y="100" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="white">Language</text>
-    <text x="300" y="100" text-anchor="middle" font-family="Arial" font-size="19" fill="white">English</text>
-    <text x="500" y="100" text-anchor="middle" font-family="Arial" font-size="19" fill="white">Spanish</text>
-    <text x="700" y="100" text-anchor="middle" font-family="Arial" font-size="19" fill="white">Italian</text>
-    <text x="100" y="150" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="white">Level</text>
-    <text x="300" y="150" text-anchor="middle" font-family="Arial" font-size="19" fill="white">C-1</text>
-    <text x="500" y="150" text-anchor="middle" font-family="Arial" font-size="19" fill="white">Native</text>
-    <text x="700" y="150" text-anchor="middle" font-family="Arial" font-size="19" fill="white">B-1</text>
-    <rect x="0" y="75" width="200" height="50" fill="none" stroke="#9b59b6" stroke-width="2" />
-    <rect x="200" y="75" width="200" height="50" fill="none" stroke="#9b59b6" stroke-width="2" />
-    <rect x="400" y="75" width="200" height="50" fill="none" stroke="#9b59b6" stroke-width="2" />
-    <rect x="600" y="75" width="200" height="50" fill="none" stroke="#9b59b6" stroke-width="2" />
-    <rect x="0" y="125" width="200" height="50" fill="none" stroke="#8e44ad" stroke-width="2" />
-    <rect x="200" y="125" width="200" height="50" fill="none" stroke="#8e44ad" stroke-width="2" />
-    <rect x="400" y="125" width="200" height="50" fill="none" stroke="#8e44ad" stroke-width="2" />
-    <rect x="600" y="125" width="200" height="50" fill="none" stroke="#8e44ad" stroke-width="2" />
+<svg xmlns="http://www.w3.org/2000/svg" width="75%" viewBox="0 0 800 150">
+    <rect x="0" y="0" width="800" height="150" fill="transparent" />
+    <text x="100" y="50" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="white">Language</text>
+    <text x="300" y="50" text-anchor="middle" font-family="Arial" font-size="19" fill="white">English</text>
+    <text x="500" y="50" text-anchor="middle" font-family="Arial" font-size="19" fill="white">Spanish</text>
+    <text x="700" y="50" text-anchor="middle" font-family="Arial" font-size="19" fill="white">Italian</text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="white">Level</text>
+    <text x="300" y="100" text-anchor="middle" font-family="Arial" font-size="19" fill="white">C-1</text>
+    <text x="500" y="100" text-anchor="middle" font-family="Arial" font-size="19" fill="white">Native</text>
+    <text x="700" y="100" text-anchor="middle" font-family="Arial" font-size="19" fill="white">B-1</text>
+    <rect x="0" y="25" width="200" height="50" fill="none" stroke="#9b59b6" stroke-width="2" />
+    <rect x="200" y="25" width="200" height="50" fill="none" stroke="#9b59b6" stroke-width="2" />
+    <rect x="400" y="25" width="200" height="50" fill="none" stroke="#9b59b6" stroke-width="2" />
+    <rect x="600" y="25" width="200" height="50" fill="none" stroke="#9b59b6" stroke-width="2" />
+    <rect x="0" y="75" width="200" height="50" fill="none" stroke="#8e44ad" stroke-width="2" />
+    <rect x="200" y="75" width="200" height="50" fill="none" stroke="#8e44ad" stroke-width="2" />
+    <rect x="400" y="75" width="200" height="50" fill="none" stroke="#8e44ad" stroke-width="2" />
+    <rect x="600" y="75" width="200" height="50" fill="none" stroke="#8e44ad" stroke-width="2" />
 </svg>
