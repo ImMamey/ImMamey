@@ -89,6 +89,7 @@ I do speak human languages too, you can find more about that here:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge)](https://nodejs.org/en)
 [![Pycord](https://img.shields.io/badge/Pycord-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://docs.pycord.dev/en/stable/)
 [![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discordpy.readthedocs.io/en/stable/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 <br>
