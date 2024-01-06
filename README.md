@@ -53,7 +53,7 @@ I do speak human languages too, you can find more about that here:
 [![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=for-the-badge)](https://www.jetbrains.com/webstorm/?var=1)
 [![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=for-the-badge)](https://netbeans.apache.org/front/main/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white&style=for-the-badge)](https://www.eclipse.org/)
-[![Navicat](https://img.shields.io/badge/Navicat-13B5EA?logo=navicat&logoColor=white&style=for-the-badge)](https://navicat.com/en/)
+[![Navicat](https://img.shields.io/badge/Navicat-13B5EA?logo=navicat&logoColor=white&style=for-the-badge)](https://navicat.com/en/) 
 
 
 ## Tools & OS I use:
