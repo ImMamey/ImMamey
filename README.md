@@ -116,9 +116,8 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 10 mins    ████████████▓░░░░░░░░░░░░   50.67 %
-XML              1 hr            ███████████░░░░░░░░░░░░░░   43.49 %
-GitIgnore file   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Java   9 mins          ████████████████░░░░░░░░░   63.98 %
+XML    5 mins          █████████░░░░░░░░░░░░░░░░   36.02 %
 ```
 
 <!--END_SECTION:waka--></pre>
