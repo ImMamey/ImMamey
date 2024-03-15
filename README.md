@@ -116,7 +116,10 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker   0 secs          ███████████▒░░░░░░░░░░░░░   44.95 %
+Python   0 secs          █████████▓░░░░░░░░░░░░░░░   39.28 %
+Bash     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+YAML     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka--></pre>
