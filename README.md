@@ -116,7 +116,7 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-SQL   2 hrs 57 mins   █████████████████████████   100.00 %
+SQL   53 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--></pre>
