@@ -116,10 +116,10 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-SQL          1 hr 12 mins    ████████████▒░░░░░░░░░░░░   49.22 %
-JavaScript   1 hr 2 mins     ██████████▓░░░░░░░░░░░░░░   42.66 %
-Markdown     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+JavaScript   1 hr 4 mins     ████████████████▒░░░░░░░░   65.39 %
+SQL          22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
+Markdown     10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka--></pre>
