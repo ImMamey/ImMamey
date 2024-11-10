@@ -116,8 +116,11 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-XML    0 secs          █████████████▓░░░░░░░░░░░   54.01 %
-Java   0 secs          ███████████▒░░░░░░░░░░░░░   45.99 %
+Python      3 hrs 42 mins   ███████████████████████░░   92.23 %
+SQL         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+.env file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Log         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Bash        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka--></pre>
