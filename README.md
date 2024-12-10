@@ -116,11 +116,10 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-Jupyter          4 hrs 53 mins   ███████████████████████░░   91.48 %
-HTML             15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-GitIgnore file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Python           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Jupyter          3 hrs 55 mins   ██████████████████████▓░░   91.14 %
+HTML             15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Python           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka--></pre>
