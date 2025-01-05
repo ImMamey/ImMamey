@@ -116,7 +116,9 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Jupyter          0 secs          ████████████▓░░░░░░░░░░░░   51.17 %
+GitIgnore file   0 secs          ███████████░░░░░░░░░░░░░░   44.66 %
+Python           0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka--></pre>
