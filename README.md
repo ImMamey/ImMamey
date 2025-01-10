@@ -40,7 +40,7 @@ I do speak human languages too, you can find more about that here:
 [![Octave](https://img.shields.io/badge/Octave-0790C0?logo=gnu-octave&logoColor=white&style=for-the-badge)](https://octave.org/)
 [![Ti-Basic](https://img.shields.io/badge/Ti%20Basic-8300FF?logo=ti&logoColor=white&style=for-the-badge)](http://tibasicdev.wikidot.com/starter-kit)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)](https://www.r-project.org/)
-
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ## My Favorite IDEs and editors
@@ -57,9 +57,11 @@ I do speak human languages too, you can find more about that here:
 
 
 ## Tools & OS I use:
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?logo=qt&logoColor=white&style=for-the-badge)](https://www.riverbankcomputing.com/static/Docs/PyQt5/)
 [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)](https://keras.io/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)](https://scikit-learn.org/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)](https://www.rabbitmq.com/)
 [![Poetry](https://img.shields.io/badge/Poetry-4B275F?logo=poetry&logoColor=white&style=for-the-badge)](https://python-poetry.org/)
 [![cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)](https://www.cisco.com/c/en/us/td/docs/ios/fundamentals/command/reference/cf_book.html)
@@ -79,8 +81,8 @@ I do speak human languages too, you can find more about that here:
 
 ## Im currently learning
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)](https://angular.io/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next-dot-js&logoColor=white&style=for-the-badge)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
@@ -89,7 +91,7 @@ I do speak human languages too, you can find more about that here:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge)](https://nodejs.org/en)
 [![Pycord](https://img.shields.io/badge/Pycord-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://docs.pycord.dev/en/stable/)
 [![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discordpy.readthedocs.io/en/stable/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 
 <br>
