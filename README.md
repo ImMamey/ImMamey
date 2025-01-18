@@ -118,11 +118,11 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-TypeScript       5 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   40.13 %
-Markdown         3 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-Python           2 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-SQL              1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-JSON             47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+TypeScript       4 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   43.00 %
+Python           2 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
+SQL              1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Markdown         1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+JSON             42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka--></pre>
