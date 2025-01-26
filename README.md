@@ -118,7 +118,8 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-YAML   7 mins          █████████████████████████   100.00 %
+Markdown   10 mins         ██████████████▒░░░░░░░░░░   57.35 %
+YAML       7 mins          ██████████▓░░░░░░░░░░░░░░   42.65 %
 ```
 
 <!--END_SECTION:waka--></pre>
