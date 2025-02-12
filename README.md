@@ -118,11 +118,11 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-Docker           16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.85 %
-SQL              15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-YAML             14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
-TOML             12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Python           10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Docker           16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+YAML             14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+TOML             10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+Python           10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Jupyter          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
 ```
 
 <!--END_SECTION:waka--></pre>
