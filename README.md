@@ -118,11 +118,7 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-SQL         53 mins         █████████████████████▒░░░   85.17 %
-Python      9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-TOML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Docker      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SQL   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--></pre>
