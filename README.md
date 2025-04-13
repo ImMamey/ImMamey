@@ -118,11 +118,11 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-JSON         27 mins         ████████████████████▒░░░░   81.77 %
-JavaScript   5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JSON         0 secs          ████████████▓░░░░░░░░░░░░   50.59 %
+JavaScript   0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.98 %
+TypeScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+CSS          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Markdown     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka--></pre>
