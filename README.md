@@ -118,11 +118,11 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-YAML             1 hr 54 mins    ████████████░░░░░░░░░░░░░   47.49 %
-Python           1 hr 35 mins    █████████▓░░░░░░░░░░░░░░░   39.27 %
-Markdown         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-TOML             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-HTML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python       58 mins         █████████████████░░░░░░░░   68.60 %
+TOML         12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Env File     7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Bash         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka--></pre>
