@@ -211,11 +211,11 @@ I do speak human languages too, you can find more about that here:
     <pre style="border: none; padding: 0;"><!--START_SECTION:waka-->
 
 ```txt
-textmate            2 mins          ███████████████████████░░   91.70 %
-SCSS                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-TOML                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Docker              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-TypeScript          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown            5 mins          █████████████░░░░░░░░░░░░   52.39 %
+textmate            2 mins          ███████░░░░░░░░░░░░░░░░░░   27.60 %
+SCSS                1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+GitIgnore file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TOML                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka--></pre>
