@@ -6,6 +6,7 @@
 <br>
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?ImMamey=ImMamey" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/ImMamey?style=flat-square&color=purple&logo=github&logoColor=white" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ImMamey?" alt="GitHub Stars" />
   <a href="https://ko-fi.com/immamey">
@@ -34,7 +35,7 @@ I do speak human languages too, you can find more about that here:
 
 ## My languages and technologies
 
-<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<div align="center">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge" alt="Java" /></a>
   <a href="https://spring.io/projects/spring-boot/"><img src="https://img.shields.io/badge/Springboot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Springboot" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" /></a>
@@ -45,7 +46,7 @@ I do speak human languages too, you can find more about that here:
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" alt="Matlab" /></a>
-</p>
+</div>
 
 
 ## My Favorite IDEs and editors
