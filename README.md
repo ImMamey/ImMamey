@@ -18,7 +18,7 @@ I do speak human languages too, you can find more about that here:
 </p>
 
 <div style="width: 100%; overflow: hidden;">
-  <a href="images/line.svg">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
   </a>
 </div>
@@ -96,7 +96,7 @@ I do speak human languages too, you can find more about that here:
 
 <br>
 <div style="width: 100%; overflow: hidden;">
-  <a href="images/line.svg">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
   </a>
 </div>
