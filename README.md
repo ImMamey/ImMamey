@@ -5,14 +5,14 @@
 </div>
 <br>
 
-
-<p style="text-align: center;">
+<div align="center">
   <img src="https://img.shields.io/github/followers/ImMamey?style=flat-square&color=purple&logo=github&logoColor=white" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ImMamey?" alt="GitHub Stars" />
   <a href="https://ko-fi.com/immamey">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
   </a>
-</p>
+</div>
+
 <p style="text-align: justify;">
 Coding is like solving a puzzle, except half the pieces are missing, and you're blindfolded. But fear not, I have mastered the art of frustration and perfected the eye-roll when faced with cryptic error messages that seem to speak an alien language. Sometimes I can even ignore the traceback and pretend it doesn't exist.
 
@@ -30,8 +30,6 @@ I do speak human languages too, you can find more about that here:
     <img src="images/line.svg" style="width: 100%; display: block;" alt="Click to see the source">
   </a>
 </div>
-
-## My languages and technologies
 
 ## My languages and technologies
 
