@@ -50,7 +50,7 @@ I do speak human languages too, you can find more about that here:
 
 
 ## My Favorite IDEs and editors
-<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<div align="center">
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
   </a>
@@ -81,11 +81,11 @@ I do speak human languages too, you can find more about that here:
   <a href="https://navicat.com/en/">
     <img src="https://img.shields.io/badge/Navicat-13B5EA?logo=navicat&logoColor=white&style=for-the-badge" alt="Navicat" />
   </a>
-</p>
+</div>
 
 
 ## Tools & OS I use:
-<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<div align="center">
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
   </a>
@@ -137,9 +137,9 @@ I do speak human languages too, you can find more about that here:
   <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
   </a>
-</p>
+</div>
 
-<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<div align="center">
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows" />
   </a>
@@ -149,11 +149,11 @@ I do speak human languages too, you can find more about that here:
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" alt="Kali Linux" />
   </a>
-</p>
+</div>
 
 ## Im currently learning
 
-<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<div align="center">
   <a href="https://dart.dev/">
     <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" />
   </a>
@@ -184,7 +184,7 @@ I do speak human languages too, you can find more about that here:
   <a href="https://discordpy.readthedocs.io/en/stable/">
     <img src="https://img.shields.io/badge/Discord.py-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord.py" />
   </a>
-</p>
+</div>
 
 
 
