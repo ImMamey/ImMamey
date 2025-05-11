@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?ImMamey=ImMamey" alt="Visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ImMamey.ImMamey&left_color=purple&right_color=purple" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/ImMamey?style=flat-square&color=purple&logo=github&logoColor=white" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ImMamey?" alt="GitHub Stars" />
   <a href="https://ko-fi.com/immamey">
