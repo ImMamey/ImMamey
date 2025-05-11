@@ -6,13 +6,13 @@
 <br>
 
 
-<div style="text-align: center;">
+<p style="text-align: center;">
   <img src="https://img.shields.io/github/followers/ImMamey?style=flat-square&color=purple&logo=github&logoColor=white" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/ImMamey?" alt="GitHub Stars" />
   <a href="https://ko-fi.com/immamey">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
   </a>
-</div>
+</p>
 <p style="text-align: justify;">
 Coding is like solving a puzzle, except half the pieces are missing, and you're blindfolded. But fear not, I have mastered the art of frustration and perfected the eye-roll when faced with cryptic error messages that seem to speak an alien language. Sometimes I can even ignore the traceback and pretend it doesn't exist.
 
@@ -35,7 +35,7 @@ I do speak human languages too, you can find more about that here:
 
 ## My languages and technologies
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge" alt="Java" /></a>
   <a href="https://spring.io/projects/spring-boot/"><img src="https://img.shields.io/badge/Springboot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Springboot" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" /></a>
@@ -46,11 +46,11 @@ I do speak human languages too, you can find more about that here:
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" alt="Matlab" /></a>
-</div>
+</p>
 
 
 ## My Favorite IDEs and editors
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
   </a>
@@ -81,11 +81,11 @@ I do speak human languages too, you can find more about that here:
   <a href="https://navicat.com/en/">
     <img src="https://img.shields.io/badge/Navicat-13B5EA?logo=navicat&logoColor=white&style=for-the-badge" alt="Navicat" />
   </a>
-</div>
+</p>
 
 
 ## Tools & OS I use:
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
   </a>
@@ -137,9 +137,9 @@ I do speak human languages too, you can find more about that here:
   <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
   </a>
-</div>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows" />
   </a>
@@ -149,11 +149,11 @@ I do speak human languages too, you can find more about that here:
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" alt="Kali Linux" />
   </a>
-</div>
+</p>
 
 ## Im currently learning
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0px;">
   <a href="https://dart.dev/">
     <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" />
   </a>
@@ -184,7 +184,7 @@ I do speak human languages too, you can find more about that here:
   <a href="https://discordpy.readthedocs.io/en/stable/">
     <img src="https://img.shields.io/badge/Discord.py-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord.py" />
   </a>
-</div>
+</p>
 
 
 
