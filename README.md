@@ -161,10 +161,7 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-SQL      0 secs          ██████████████████▓░░░░░░   74.73 %
-Python   0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.36 %
-XML      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
