@@ -161,7 +161,11 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Docker           1 hr 2 mins     ██████████▓░░░░░░░░░░░░░░   42.58 %
+JSON             41 mins         ███████░░░░░░░░░░░░░░░░░░   28.49 %
+GitIgnore file   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+YAML             11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Markdown         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
 ```
 
 <!--END_SECTION:waka-->
