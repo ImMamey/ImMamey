@@ -161,11 +161,11 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-SQL         12 mins         ██████████████░░░░░░░░░░░   55.43 %
-Python      10 mins         ███████████░░░░░░░░░░░░░░   44.06 %
-.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-TOML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+SQL          11 mins         ██████████████▓░░░░░░░░░░   58.64 %
+JSON         4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
+Python       3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
