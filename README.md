@@ -161,11 +161,11 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-YAML                46 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-Python              43 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-textmate            31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-Markdown            19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Docker              18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+textmate     1 hr 13 mins    ███████▒░░░░░░░░░░░░░░░░░   29.54 %
+TypeScript   1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+YAML         51 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+Docker       24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+JSON         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
 ```
 
 <!--END_SECTION:waka-->
