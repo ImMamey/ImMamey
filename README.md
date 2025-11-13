@@ -161,10 +161,7 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-textmate     0 secs          █████████████░░░░░░░░░░░░   51.82 %
-TypeScript   0 secs          ███████░░░░░░░░░░░░░░░░░░   27.94 %
-YAML         0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-Docker       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
