@@ -161,7 +161,11 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java          17 mins         █████████████▒░░░░░░░░░░░   53.50 %
+IDEA_MODULE   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+textmate      3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+TypeScript    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Batchfile     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
 ```
 
 <!--END_SECTION:waka-->
