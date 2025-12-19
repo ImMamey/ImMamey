@@ -161,11 +161,11 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-JSON             1 hr 7 mins     ████████████████▒░░░░░░░░   65.89 %
-SQL              13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-TSConfig         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-HTML             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-CSS              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+JSON             1 hr 7 mins     █████████████████▓░░░░░░░   70.85 %
+SQL              13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+TSConfig         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+CSS              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+HTML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
