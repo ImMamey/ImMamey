@@ -161,7 +161,10 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-Jupyter   8 mins          █████████████████████████   100.00 %
+Jupyter       8 mins          ████████████████████████▓   99.04 %
+TypeScript    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+textmate      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
