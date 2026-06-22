@@ -161,9 +161,9 @@ I do speak human languages too, you can find more about that here:
         <pre style="border: none; padding: 0; background: transparent;"><!--START_SECTION:waka-->
 
 ```txt
-Jupyter    12 mins               █████████▒░░░░░░░░░░░░░░░   37.95 %
-Python     11 mins               ████████▓░░░░░░░░░░░░░░░░   35.07 %
-Markdown   9 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+Jupyter    12 mins               █████████▓░░░░░░░░░░░░░░░   38.15 %
+Python     11 mins               ████████▓░░░░░░░░░░░░░░░░   34.76 %
+Markdown   9 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
 ```
 
 <!--END_SECTION:waka-->
